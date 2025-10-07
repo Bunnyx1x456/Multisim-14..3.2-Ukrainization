@@ -23,7 +23,7 @@
 Цей розділ присвячений встановленню повного перекладу інтерфейсу NI Multisim українською мовою.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/929fb44b-feff-4401-aef6-752197d37374" width="800" alt="Приклад перекладу">
+  <img src="https://github.com/user-attachments/assets/67c57fdf-ba1c-425f-9497-25dad5391f37" width="800" alt="Приклад перекладу">
   <br>
   <em>Приклад інтерфейсу програми після встановлення українізатора.</em>
 </p>
